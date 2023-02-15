@@ -14,6 +14,8 @@ script displays a confused smiley
 
 5script displays the first 10 lines of the file passwd
 
+6script displays the third line of the file iacta
+
 
 
 
