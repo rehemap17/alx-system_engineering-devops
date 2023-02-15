@@ -10,6 +10,10 @@ script displays a confused smiley
 
 3script displays content of the file passwd and hosts
 
-2script displays the last 10 lines of the file passwd
+4script displays the last 10 lines of the file passwd
+
+5script displays the first 10 lines of the file passwd
+
+
 
 
