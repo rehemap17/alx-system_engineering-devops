@@ -8,6 +8,8 @@ script displays a confused smiley
 
 2script displays content of the file passwd
 
-3scricpt displays content of the file passwd and hosts
+3script displays content of the file passwd and hosts
+
+2script displays the last 10 lines of the file passwd
 
 
