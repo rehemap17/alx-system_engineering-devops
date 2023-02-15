@@ -16,6 +16,8 @@ script displays a confused smiley
 
 6script displays the third line of the file iacta
 
+7script creates a file containing Best School ending by a new line
+
 
 
 
