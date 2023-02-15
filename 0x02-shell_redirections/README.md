@@ -5,3 +5,5 @@ script prints "Hello, World"
 
 1confused smiley
 script displays a confused smiley
+
+script displays content of the file passwd
